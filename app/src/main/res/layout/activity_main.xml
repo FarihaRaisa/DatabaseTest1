@@ -109,6 +109,18 @@
             android:text="Show all"
             tools:layout_editor_absoluteX="8dp" />
 
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="368dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btn1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="162dp"
+            android:background="@drawable/white"
+            android:text="Save"
+            tools:layout_editor_absoluteX="8dp" />
+
+
     </RelativeLayout>
     />
 
